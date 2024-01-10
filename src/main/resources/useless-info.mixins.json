@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.tomate.uselessinfo.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "DispenserScreenMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
